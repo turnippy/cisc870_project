@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1NrLIFpj9iAhVJweDgY1VScFjy5-hoMSO
 """
 
-!pip install tenseal
-
 import tenseal as ts
 import random
 from time import time
