@@ -7,6 +7,6 @@ Contributor: Tong Liu
 # Requirements
 This code requires installing TenSEAL and numpy library
 
-TenSEAL be installed using `pip install tenseal`
+TenSEAL can be installed using `pip install tenseal`
 
-numpy be installed using `pip install numpy`
+numpy can be installed using `pip install numpy`
