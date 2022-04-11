@@ -13,8 +13,6 @@ import tenseal as ts
 import random
 from time import time
 
-context = ts.context(ts.SCHEME_TYPE.BFV, poly_modulus_degree=4096, plain_modulus=1032193)
-
 class Server:
   def __init__(self):
     pass
