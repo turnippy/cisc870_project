@@ -7,4 +7,4 @@ Contributor: Tong Liu
 # Requirements
 This code requires installing TenSEAL library
 
-Can be installed using `pip install tenseal`
+TenSEAL be installed using `pip install tenseal`
